@@ -1,0 +1,280 @@
+qID1	sentence1	option11	option12	answer1
+wsc0	The city councilmen refused the demonstrators a permit because _ feared violence.	The city councilmen	The demonstrators	1
+wsc1	The city councilmen refused the demonstrators a permit because _ advocated violence.	The city councilmen	The demonstrators	2
+wsc2	The trophy doesn't fit into the brown suitcase because _ is too large.	the trophy	the suitcase	1
+wsc3	The trophy doesn't fit into the brown suitcase because _ is too small.	the trophy	the suitcase	2
+wsc4	Joan made sure to thank Susan for all the help _ had recieved.	Joan	Susan	1
+wsc5	Joan made sure to thank Susan for all the help _ had given.	Joan	Susan	2
+wsc6	Paul tried to call George on the phone, but _ wasn't successful.	Paul	George	1
+wsc7	Paul tried to call George on the phone, but _ wasn't available.	Paul	George	2
+wsc8	The lawyer asked the witness a question, but _ was reluctant to repeat it.	the lawyer	the witness	1
+wsc9	The lawyer asked the witness a question, but _ was reluctant to answer it.	the lawyer	the witness	2
+wsc10	The delivery truck zoomed by the school bus because _ was going so fast.	the delivery truck	the school bus	1
+wsc11	The delivery truck zoomed by the school bus because _ was going so slow.	the delivery truck	the school bus	2
+wsc12	Frank felt vindicated when his longtime rival Bill revealed that _ was the winner of the competition.	Frank	Bill	1
+wsc13	Frank felt crushed when his longtime rival Bill revealed that _ was the winner of the competition.	Frank	Bill	2
+wsc14	The man couldn't lift his son because _ was so weak.	The man	The son	1
+wsc15	The man couldn't lift his son because _ was so heavy.	The man	The son	2
+wsc16	The large ball crashed right through the table because _ was made of steel.	The large ball	The table	1
+wsc17	The large ball crashed right through the table because _ was made of styrofoam.	The large ball	The table	2
+wsc18	John couldn't see the stage with Billy in front of him because _ is so short.	John	Billy	1
+wsc19	John couldn't see the stage with Billy in front of him because _ is so tall.	John	Billy	2
+wsc20	Tom threw his schoolbag down to Ray after _ reached the top of the stairs.	Tom	Ray	1
+wsc21	Tom threw his schoolbag down to Ray after _ reached the bottom of the stairs.	Tom	Ray	2
+wsc22	Although they ran at about the same speed, Sue beat Sally because _ had such a good start.	Sue	Sally	1
+wsc23	Although they ran at about the same speed, Sue beat Sally because _ had such a bad start.	Sue	Sally	2
+wsc24	The sculpture rolled off the shelf because _ wasn't anchored.	The sculpture	The shelf	1
+wsc25	The sculpture rolled off the shelf because _ wasn't level.	The sculpture	The shelf	2
+wsc26	Sam's drawing was hung just above Tina's and _ did look much better with another one below it.	Sam's drawing	Tina's drawing	1
+wsc27	Sam's drawing was hung just above Tina's and _ did look much better with another one above it.	Sam's drawing	Tina's drawing	2
+wsc28	Anna did a lot better than her good friend Lucy on the test because _ had studied so hard.	Anna	Lucy	1
+wsc29	Anna did a lot worse than her good friend Lucy on the test because _ had studied so hard.	Anna	Lucy	2
+wsc30	The firemen arrived after the police because _ were coming from so far away.	The firemen	The police	1
+wsc31	The firemen arrived before the police because _ were coming from so far away.	The firemen	The police	2
+wsc32	Frank was upset with Tom because the toaster _ had bought from him didn't work.	Frank	Tom	1
+wsc33	Frank was upset with Tom because the toaster _ had sold him didn't work.	Frank	Tom	2
+wsc34	Jim yelled at Kevin because _ was so upset.	Jim	Kevin	1
+wsc35	Jim comforted Kevin because _ was so upset.	Jim	Kevin	2
+wsc36	The sack of potatoes had been placed above the bag of flour, so _ had to be moved first.	The sack of potatoes	The bag of flour	1
+wsc37	The sack of potatoes had been placed below the bag of flour, so _ had to be moved first.	The sack of potatoes	The bag of flour	2
+wsc38	Pete envies Martin although _ is very successful.	Pete	Martin	1
+wsc39	Pete envies Martin because _ is very successful.	Pete	Martin	2
+wsc40	The older students were bullying the younger ones, so we punished _ .	The older students	The younger students	1
+wsc41	The older students were bullying the younger ones, so we rescued _ .	The older students	The younger students	2
+wsc42	I poured water from the bottle into the cup until _ was empty.	the bottle	the cup	1
+wsc43	I poured water from the bottle into the cup until _ was full.	the bottle	the cup	2
+wsc44	Susan knows all about Ann's personal problems because _ is nosy.	Susan	Ann	1
+wsc45	Susan knows all about Ann's personal problems because _ is indiscreet.	Susan	Ann	2
+wsc46	Sid explained his theory to Mark but _ couldn't convince him.	Sid	Mark	1
+wsc47	Sid explained his theory to Mark but _ couldn't understand him.	Sid	Mark	2
+wsc48	Susan knew that Ann's son had been in a car accident, so _ told her about it.	Susan	Ann	1
+wsc49	Susan knew that Ann's son had been in a car accident, because _ told her about it.	Susan	Ann	2
+wsc50	Joe's uncle can still beat him at tennis, even though _ is 30 years younger.	Joe	Joe's uncle	1
+wsc51	Joe's uncle can still beat him at tennis, even though _ is 30 years older.	Joe	Joe's uncle	2
+wsc52	The painting in Mark's living room shows an oak tree. _ is to the right of the bookcase.	The painting	The oak tree	1
+wsc53	The painting in Mark's living room shows an oak tree. _ is to the right of a house.	The painting	The oak tree	2
+wsc54	There is a gap in the wall. You can see the garden through _ .	The gap	The wall	1
+wsc55	There is a gap in the wall. You can see the garden behind _ .	The gap	The wall	2
+wsc56	The drain is clogged with hair. _ has to be cleaned.	The drain	The hair	1
+wsc57	The drain is clogged with hair. _ has to be removed.	The drain	The hair	2
+wsc58	My meeting started at 4:00 and I needed to catch the train at 4:30,  so there wasn't much time. Luckily, _ was short, so it worked out.	The meeting	The train	1
+wsc59	My meeting started at 4:00 and I needed to catch the train at 4:30,  so there wasn't much time. Luckily, _ was delayed, so it worked out.	The meeting	The train	2
+wsc60	There is a pillar between me and the stage, and I can't see around _ .	The pillar	The stage	1
+wsc61	There is a pillar between me and the stage, and I can't see _ .	The pillar	The stage	2
+wsc62	They broadcast an announcement, but a subway came into the  station and I couldn't hear _ .	The announcement	The subway	1
+wsc63	They broadcast an announcement, but a subway came into the  station and I couldn't hear over _ .	The announcement	The subway	2
+wsc64	In the middle of the outdoor concert, the rain started falling, but _ continued until 10.	The concert	The rain	1
+wsc65	In the middle of the outdoor concert, the rain started falling, and _ continued until 10.	The concert	The rain	2
+wsc66	I used an old rag to clean the knife, and then I put _ in the trash.	The rag	The knife	1
+wsc67	I used an old rag to clean the knife, and then I put _ in the drawer.	The rag	The knife	2
+wsc68	Ann asked Mary what time the library closes, because _ had forgotten.	Ann	Mary	1
+wsc69	Ann asked Mary what time the library closes, but _ had forgotten.	Ann	Mary	2
+wsc70	I took the water bottle out of the backpack so that _ would be handy.	The water bottle	The backpack	1
+wsc71	I took the water bottle out of the backpack so that _ would be lighter.	The water bottle	The backpack	2
+wsc72	I couldn't put the pot on the shelf because _ was too tall.	The pot	The shelf	1
+wsc73	I couldn't put the pot on the shelf because _ was too high.	The pot	The shelf	2
+wsc74	I'm sure that my map will show this building; _ is very good.	The map	The building	1
+wsc75	I'm sure that my map will show this building; _ is very famous.	The map	The building	2
+wsc76	Bob paid for Charlie's college education. _ is very generous.	Bob	Charlie	1
+wsc77	Bob paid for Charlie's college education. _ is very grateful.	Bob	Charlie	2
+wsc78	Bob paid for Charlie's college education, but now Charlie acts as though it never happened. _ is very hurt.	Bob	Charlie	1
+wsc79	Bob paid for Charlie's college education, but now Charlie acts as though it never happened. _ is very ungrateful.	Bob	Charlie	2
+wsc80	Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, _ would have won.	Bob	Adam	1
+wsc81	Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, _ would have lost.	Bob	Adam	2
+wsc82	Adam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, _ would be gone by this time.	Adam	Bob	1
+wsc83	Adam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, _ would be here by this time.	Adam	Bob	2
+wsc84	If the con artist has succeeded in fooling Sam, _ would have gotten a lot of money.	The con artist	Sam	1
+wsc85	If the con artist has succeeded in fooling Sam, _ would have lost a lot of money.	The con artist	Sam	2
+wsc86	It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because _ was hot.	The dog	The spot under the tree	1
+wsc87	It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because _ was cooler.	The dog	The spot under the tree	2
+wsc88	The cat was lying by the mouse hole waiting for the mouse, but _ was too impatient.	The cat	The mouse	1
+wsc89	The cat was lying by the mouse hole waiting for the mouse, but _ was too cautious.	The cat	The mouse	2
+wsc90	Anne gave birth to a daughter last month. _ is a very charming woman.	Anne	Anne's daughter	1
+wsc91	Anne gave birth to a daughter last month. _ is a very charming baby.	Anne	Anne's daughter	2
+wsc92	Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why _ was behaving so strangely.	Alice	Alice's daughter	1
+wsc93	Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why _ was behaving so strangely.	Alice	Alice's daughter	2
+wsc94	I saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know why _ was, but he looked very unhappy.	Jim	the guy in uniform	1
+wsc95	I saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know who _ was, but he looked very unhappy.	Jim	the guy in uniform	2
+wsc96	The fish ate the worm. _ was hungry.	The fish	The worm	1
+wsc97	The fish ate the worm. _ was tasty.	The fish	The worm	2
+wsc98	I was trying to open the lock with the key, but someone had filled the  keyhole with chewing gum, and I couldn't get _ in.	The key	The chewing gum	1
+wsc99	I was trying to open the lock with the key, but someone had filled the  keyhole with chewing gum, and I couldn't get _ out.	The key	The chewing gum	2
+wsc100	The dog chased the cat, which ran up a tree. _ waited at the bottom.	The dog	The cat	1
+wsc101	The dog chased the cat, which ran up a tree. _ waited at the top.	The dog	The cat	2
+wsc102	In the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get _ removed.	The tree	The roof	1
+wsc103	In the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get _ repaired.	The tree	The roof	2
+wsc104	The customer walked into the bank and stabbed one of the tellers. _ was immediately taken to the police station.	The customer	The teller	1
+wsc105	The customer walked into the bank and stabbed one of the tellers. _ was immediately taken to the hospital.	The customer	The teller	2
+wsc106	John was doing research in the library when he heard a man humming and  whistling. _ was very annoyed.	John	The man	1
+wsc107	John was doing research in the library when he heard a man humming and  whistling. _ was very annoying.	John	The man	2
+wsc108	John was jogging through the park when he saw a man juggling watermelons. _ was very impressed.	John	The juggler	1
+wsc109	John was jogging through the park when he saw a man juggling watermelons. _ was very impressive.	John	The juggler	2
+wsc110	Bob collapsed on the sidewalk. Soon he saw Carl coming to help. _ was very ill.	Bob	Carl	1
+wsc111	Bob collapsed on the sidewalk. Soon he saw Carl coming to help. _ was very concerned.	Bob	Carl	2
+wsc112	Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because _ are fifteen.	Sam and Amy	Amy's parents	1
+wsc113	Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because _ are snobs.	Sam and Amy	Amy's parents	2
+wsc114	Mark told Pete many lies about himself, which Pete included in his book. _ should have been more  truthful.	Mark	Pete	1
+wsc115	Mark told Pete many lies about himself, which Pete included in his book. _ should have been more  skeptical.	Mark	Pete	2
+wsc116	Joe has sold his house and bought a new one a few miles away. He will be moving out of _ on Thursday.	The old house	The new house	1
+wsc117	Joe has sold his house and bought a new one a few miles away. He will be moving into _ on Thursday.	The old house	The new house	2
+wsc118	Many people start to read Paul's books and can't put them down. _ are gripped because Paul writes so well.	People	Paul's books	1
+wsc119	Many people start to read Paul's books and can't put them down. _ are popular because Paul writes so well.	People	Paul's books	2
+wsc120	Mary took out her flute and played one of her favorite pieces. She has had _ since she was a child.	The flute	The piece	1
+wsc121	Mary took out her flute and played one of her favorite pieces. She has loved _ since she was a child.	The flute	The piece	2
+wsc122	Sam pulled up a chair to the piano, but _ was broken, so he had to stand instead.	The chair	The piano	1
+wsc123	Sam pulled up a chair to the piano, but _ was broken, so he had to sing instead.	The chair	The piano	2
+wsc124	Since it was raining, I carried the newspaper in my backpack to keep _ dry.	The newspaper	The backpack	1
+wsc125	Since it was raining, I carried the newspaper over my backpack to keep _ dry.	The newspaper	The backpack	2
+wsc126	Sara borrowed the book from the library because she needs it for an article she is working on. She reads _ when she gets home from work.	The book	The article	1
+wsc127	Sara borrowed the book from the library because she needs it for an article she is working on. She writes _ when she gets home from work.	The book	The article	2
+wsc128	This morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the tide  knocked _ down.	The sand castle	The flag	1
+wsc129	This morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the wind  knocked _ down.	The sand castle	The flag	2
+wsc130	Jane knocked on Susan's door, but there was no answer. _ was disappointed.	Jane	Susan	1
+wsc131	Jane knocked on Susan's door, but there was no answer. _ was out.	Jane	Susan	2
+wsc132	Jane knocked on the door, and Susan answered it. _ invited her to come out.	Jane	Susan	1
+wsc133	Jane knocked on the door, and Susan answered it. _ invited her to come in.	Jane	Susan	2
+wsc134	Sam took French classes from Adam, because _ was eager to speak it fluently.	Sam	Adam	1
+wsc135	Sam took French classes from Adam, because _ was known to speak it fluently.	Sam	Adam	2
+wsc136	The path to the lake was blocked, so we couldn't use _ .	The path	The lake	1
+wsc137	The path to the lake was blocked, so we couldn't reach _ .	The path	The lake	2
+wsc138	The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, _ was out.	The sun	The cloud	1
+wsc139	The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, _ was gone.	The sun	The cloud	2
+wsc140	We went to the lake, because a shark had been seen at the ocean beach, so _ was a safer place to swim.	The lake	The ocean beach	1
+wsc141	We went to the lake, because a shark had been seen at the ocean beach, so _ was a dangerous place to swim.	The lake	The ocean beach	2
+wsc142	Sam tried to paint a picture of shepherds with sheep, but _ ended up looking more like golfers.	The shepherds	The sheep	1
+wsc143	Sam tried to paint a picture of shepherds with sheep, but _ ended up looking more like dogs.	The shepherds	The sheep	2
+wsc144	Mary tucked her daughter Anne into bed, so that _ could work.	Mary	Mary's daughter	1
+wsc145	Mary tucked her daughter Anne into bed, so that _ could sleep.	Mary	Mary's daughter	2
+wsc146	Fred and Alice had very warm down coats, but _ were not prepared for the cold in Alaska.	Fred and Alice	coats	1
+wsc147	Fred and Alice had very warm down coats, but _ were not enough for the cold in Alaska.	Fred and Alice	coats	2
+wsc148	Thomson visited Cooper's grave in 1765. At that date _ had been travelling for five years.	Thomson	Cooper	1
+wsc149	Thomson visited Cooper's grave in 1765. At that date _ had been dead for five years.	Thomson	Cooper	2
+wsc150	Jackson was greatly influenced by Arnold, though _ lived two centuries later.	Jackson	Arnold	1
+wsc151	Jackson was greatly influenced by Arnold, though _ lived two centuries earlier.	Jackson	Arnold	2
+wsc152	I can't cut that tree down with that axe; _ is too thick.	The tree	The axe	1
+wsc153	I can't cut that tree down with that axe; _ is too small.	The tree	The axe	2
+wsc154	The foxes are getting in at night and attacking the chickens. I shall have to kill _ .	The foxes	The chickens	1
+wsc155	The foxes are getting in at night and attacking the chickens. I shall have to guard _ .	The foxes	The chickens	2
+wsc156	The foxes are getting in at night and attacking the chickens. _ have gotten very bold.	The foxes	The chickens	1
+wsc157	The foxes are getting in at night and attacking the chickens. _ have gotten very nervous.	The foxes	The chickens	2
+wsc158	Fred covered his eyes with his hands, because the wind was blowing sand around. He opened _ when the wind stopped.	His eyes	His hands	1
+wsc159	Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered _ when the wind stopped.	His eyes	His hands	2
+wsc160	The actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured _ was too hard to pronounce.	Terpsichore	Tina	1
+wsc161	The actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured _ was easier to pronounce.	Terpsichore	Tina	2
+wsc162	Fred watched TV while George went out to buy groceries. After an hour _ got up.	Fred	George	1
+wsc163	Fred watched TV while George went out to buy groceries. After an hour _ got back.	Fred	George	2
+wsc164	Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned _ on.	The dishwasher	The TV	1
+wsc165	Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned _ off.	The dishwasher	The TV	2
+wsc166	Fred is the only man still alive who remembers my great-grandfather. _ is a remarkable man.	Fred	My great-grandfather	1
+wsc167	Fred is the only man still alive who remembers my great-grandfather. _ was a remarkable man.	Fred	My great-grandfather	2
+wsc168	Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, _ was twelve years old.	Fred	My father	1
+wsc169	Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, _ was twelve months old.	Fred	My father	2
+wsc170	In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, _ were defeated within weeks.	Kamchatka	Yakutsk	1
+wsc171	In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, _ were victorious within weeks.	Kamchatka	Yakutsk	2
+wsc172	Look! There is a minnow swimming right below that duck! _ had better get away to safety fast!	The minnow	The duck	1
+wsc173	Look! There is a shark swimming right below that duck! _ had better get away to safety fast!	The shark	The duck	2
+wsc174	Archaeologists have concluded that humans lived in Laputa 20,000 years ago. _ hunted for evidence on the river banks.	Archaeologists	Prehistoric humans	1
+wsc175	Archaeologists have concluded that humans lived in Laputa 20,000 years ago. _ hunted for deer on the river banks.	Archaeologists	Prehistoric humans	2
+wsc176	The scientists are studying three species of fish that have recently been found living in the Indian Ocean. _ began two years ago.	The scientists	The fish	1
+wsc177	The scientists are studying three species of fish that have recently been found living in the Indian Ocean. _ appeared two years ago.	The scientists	The fish	2
+wsc178	The journalists interviewed the stars of the new movie. _ were very persistent, so the interview lasted for a long time.	The journalists	The stars	1
+wsc179	The journalists interviewed the stars of the new movie. _ were very cooperative, so the interview lasted for a long time.	The journalists	The stars	2
+wsc180	The police arrested all of the gang members. _ were trying to stop the drug trade in the neighborhood.	The police	The gang members	1
+wsc181	The police arrested all of the gang members. _ were trying to run the drug trade in the neighborhood.	The police	The gang members	2
+wsc182	I put the cake away in the refrigerator. _ has a lot of butter in it.	The cake	The refrigerator	1
+wsc183	I put the cake away in the refrigerator. _ has a lot of leftovers in it.	The cake	The refrigerator	2
+wsc184	Sam broke both his ankles and he's walking with crutches. But a month or so from now _ should be better.	The ankles	The crutches	1
+wsc185	Sam broke both his ankles and he's walking with crutches. But a month or so from now _ should be unnecessary.	The ankles	The crutches	2
+wsc186	When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. _ were very much in the minority.	The sponsors	The opponents	1
+wsc187	When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. _ were very much in the majority.	The sponsors	The opponents	2
+wsc188	Everyone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make more of _ .	The oatmeal cookies	The chocolate chip cookies	1
+wsc189	Everyone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make fewer of _ .	The oatmeal cookies	The chocolate chip cookies	2
+wsc190	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of _ .	copies of the newsletter	chairs	1
+wsc191	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of _ .	copies of the newsletter	chairs	2
+wsc192	I stuck a pin through a carrot. When I pulled the pin out, _ left a hole.	The pin	The carrot	1
+wsc193	I stuck a pin through a carrot. When I pulled the pin out, _ had a hole.	The pin	The carrot	2
+wsc194	I couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because _ got full of coffee.	The pen	The coffee	1
+wsc195	I couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because _ got full of ink.	The pen	The coffee	2
+wsc196	Steve follows Fred's example in everything. _ admires him hugely.	Steve	Fred	1
+wsc197	Steve follows Fred's example in everything. _ influences him hugely.	Steve	Fred	2
+wsc198	The table won't fit through the doorway because _ is too wide.	The table	The doorway	1
+wsc199	The table won't fit through the doorway because _ is too narrow.	The table	The doorway	2
+wsc200	Grace was happy to trade me her sweater for my jacket. She thinks _ looks dowdy on her.	The sweater	The jacket	1
+wsc201	Grace was happy to trade me her sweater for my jacket. She thinks _ looks great on her.	The sweater	The jacket	2
+wsc202	John hired Bill to take care of _ .	John	Bill	1
+wsc203	John hired himself out to Bill to take care of _ .	John	Bill	2
+wsc204	John promised Bill to leave, so an hour later _ left.	John	Bill	1
+wsc205	John ordered Bill to leave, so an hour later _ left.	John	Bill	2
+wsc206	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties _ faced in his research.	Goodman	Xenophanes	1
+wsc207	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties _ faced in his childhood.	Goodman	Xenophanes	2
+wsc208	Emma's mother had died long ago, and _ education had been managed by an excellent woman as governess.	Emma	Emma's mother	1
+wsc209	Emma's mother had died long ago, and _ place had been taken by an excellent woman as governess.	Emma	Emma's mother	2
+wsc210	Jane knocked on Susan's door but _ did not get an answer.	Jane	Susan	1
+wsc211	Jane knocked on Susan's door but _ did not answer.	Jane	Susan	2
+wsc212	Joe paid the detective after _ received the final report on the case.	Joe	the detective	1
+wsc213	Joe paid the detective after _ delivered the final report on the case.	Joe	the detective	2
+wsc214	Beth didn't get angry with Sally, who had cut her off, because _ stopped and counted to ten.	Beth	Sally	1
+wsc215	Beth didn't get angry with Sally, who had cut her off, because _ stopped and apologized.	Beth	Sally	2
+wsc216	Jim signaled the barman and gestured toward _ empty glass	Jim	The barman	1
+wsc217	Jim signaled the barman and gestured toward _ bathroom key.	Jim	The barman	2
+wsc218	Dan took the rear seat while Bill claimed the front because _ "Dibs!" was slow.	Dan	Bill	1
+wsc219	Dan took the rear seat while Bill claimed the front because _ "Dibs!" was quicker.	Dan	Bill	2
+wsc220	Tom said "Check" to Ralph as he moved _ bishop.	Tom	Ralph	1
+wsc221	Tom said "Check" to Ralph as he took _ bishop.	Tom	Ralph	2
+wsc222	As Andrea in the crop duster passed over Susan, _ could see the landing strip.	Andrea	Susan	1
+wsc223	As Andrea in the crop duster passed over Susan, _ could see the landing gear.	Andrea	Susan	2
+wsc224	Tom gave Ralph a lift to school so _ wouldn't have to drive alone.	Tom	Ralph	1
+wsc225	Tom gave Ralph a lift to school so _ wouldn't have to walk.	Tom	Ralph	2
+wsc226	Bill passed the half-empty plate to John because _ was full.	Bill	John	1
+wsc227	Bill passed the half-empty plate to John because _ was hungry.	Bill	John	2
+wsc228	Bill passed the gameboy to John because _ turn was over.	Bill	John	1
+wsc229	Bill passed the gameboy to John because _ turn was next.	Bill	John	2
+wsc230	The man lifted the boy onto _ shoulders.	The man	The boy	1
+wsc231	The man lifted the boy onto _ bunk bed.	The man	The boy	2
+wsc232	Stretching _ back, the woman smiled at the girl.	The woman	The girl	1
+wsc233	Patting _ back, the woman smiled at the girl.	The woman	The girl	2
+wsc234	Billy cried because Toby wouldn't accept _ toy.	Billy	Toby	1
+wsc235	Billy cried because Toby wouldn't share _ toy.	Billy	Toby	2
+wsc236	Lily spoke to Donna, breaking _ silence.	Lily	Donna	1
+wsc237	Lily spoke to Donna, breaking _ concentration.	Lily	Donna	2
+wsc238	When Tommy dropped his ice cream, Timmy giggled, so father gave _ a sympathetic look.	Tommy	Timmy	1
+wsc239	When Tommy dropped his ice cream, Timmy giggled, so father gave _ a stern look.	Tommy	Timmy	2
+wsc240	As Ollie carried Tommy up the long winding steps, _ legs ached.	Ollie	Tommy	1
+wsc241	As Ollie carried Tommy up the long winding steps, _ legs dangled.	Ollie	Tommy	2
+wsc242	The father carried the sleeping boy in _ arms	The father	The boy	1
+wsc243	The father carried the sleeping boy in _ bassinet.	The father	The boy	2
+wsc244	The woman held the girl against _ chest	The woman	The girl	1
+wsc245	The woman held the girl against _ will.	The woman	The girl	2
+wsc246	Pam's parents came home and found her having sex with her boyfriend, Paul. _ were furious about it.	Pam's parents	Pam and Paul	1
+wsc247	Pam's parents came home and found her having sex with her boyfriend, Paul. _ were embarrassed about it.	Pam's parents	Pam and Paul	2
+wsc248	Dr. Adams informed Kate that _ had retired and presented several options for future treatment.	Dr. Adams	Kate	1
+wsc249	Dr. Adams informed Kate that _ had cancer and presented several options for future treatment.	Dr. Adams	Kate	2
+wsc250	Dan had to stop Bill from toying with the injured bird. _ is very compassionate.	Dan	Bill	1
+wsc251	Dan had to stop Bill from toying with the injured bird. _ is very cruel.	Dan	Bill	2
+wsc252	George got free tickets to the play, but he gave them to Eric, even though _ was particularly eager to see it.	George	Eric	1
+wsc253	George got free tickets to the play, but he gave them to Eric, because _ was particularly eager to see it.	George	Eric	2
+wsc254	George got free tickets to the play, but he gave them to Eric, because _ was not particularly eager to see it.	George	Eric	1
+wsc255	Jane gave Joan candy because _ wasn't hungry.	Jane	Joan	1
+wsc256	Jane gave Joan candy because _ was hungry.	Jane	Joan	2
+wsc257	I tried to paint a picture of an orchard, with lemons in the lemon trees,  but _ came out looking more like light bulbs.	lemons	lemon trees	1
+wsc258	I tried to paint a picture of an orchard, with lemons in the lemon trees,  but _ came out looking more like telephone poles.	lemons	lemon trees	2
+wsc259	James asked Robert for a favor but _ was refused.	James	Robert	1
+wsc260	James asked Robert for a favor but _ refused.	James	Robert	2
+wsc261	Kirilov ceded the presidency to Shatov because _ was less popular.	Kirilov	Shatov	1
+wsc262	Kirilov ceded the presidency to Shatov because _ was more popular.	Kirilov	Shatov	2
+wsc263	Emma did not pass the ball to Janie although _ saw that she was open.	Emma	Janie	1
+wsc264	Emma did not pass the ball to Janie although _ was open.	Emma	Janie	2
+wsc265	I put the butterfly wing on the table and _ broke.	The butterfly wing	The table	1
+wsc266	I put the heavy book on the table and _ broke.	The heavy book	The table	2
+wsc267	Madonna fired her trainer because _ couldn't stand her boyfriend.	Madonna	The trainer	1
+wsc268	Madonna fired her trainer because _ slept with her boyfriend.	Madonna	The trainer	2
+wsc269	Madonna fired her trainer because she slept with _ boyfriend.	Madonna	The trainer	1
+wsc270	Madonna fired her trainer because she couldn't stand _ boyfriend.	Madonna	The trainer	2
+wsc271	Carol believed that Rebecca suspected that _ had stolen the watch.	Carol	Rebecca	1
+wsc272	Carol believed that Rebecca regretted that _ had stolen the watch.	Carol	Rebecca	2
+wsc273	This book introduced Shakespeare to Ovid; it was a major influence on _ writing.	Shakespeare	Ovid	1
+wsc274	This book introduced Shakespeare to Goethe; it was a major influence on _ writing.	Shakespeare	Goethe	2
+wsc275	This book introduced Shakespeare to Ovid; it was a fine selection of _ writing.	Shakespeare	Ovid	2
+wsc276	This book introduced Shakespeare to Goethe; it was a fine selection of _ writing.	Shakespeare	Goethe	1
+wsc277	Alice looked for her friend Jade in the crowd. Since _ always has good luck, Alice spotted her quickly.	Alice	Jade	1
+wsc278	Alice looked for her friend Jade in the crowd. Since _ always wears a red turban, Alice spotted her quickly.	Alice	Jade	2
