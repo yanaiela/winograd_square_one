@@ -60,3 +60,24 @@ Evaluate against dataset and models:
 `bash runs/eval_zero_shot.sh`
 
 
+## Fine-tuning Evaluation
+
+We present the code used for the fine-tuning experiment at [Fine_tuned_model_evaluation](Fine_tuned_model_evaluation/). 
+
+You can train the model with the following command:
+
+```
+python Fine_tuned_model_evaluation/MC_finetuning.py --train_data_file  "Training file"
+--dev_data_file "Dev file" --test_data_file "Testing file" --model_type roberta_mc --model_name_or_path roberta-large
+--task_name winogrande --output_dir "output folder" --data_cache_dir "output folder" --do_train --do_eval --do_lower_case
+--evaluate_during_training
+```
+
+You can test the trained model by replacing the "model_name_or_path" with the location of your trained model and remove the "do_train" tag.
+
+
+
+#### Acknowledgements
+We developed our code based on the codes released by Huggingface and paper "Precise Task Formalization Matters in Winograd Schema Evaluations"
+
+
